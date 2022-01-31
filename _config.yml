@@ -24,8 +24,8 @@ subtitle: "The 14th Asian Conference on Machine Learning"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Asian Conference on Machine Learning (ACML) is an international conference in the area of machine learning. It aims at providing a leading international forum for researchers in Machine Learning and related fields to share their new ideas and achievements.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.acml-conf.org" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/acml2022" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: acml-conf
 github_username:  acml-conf
 
