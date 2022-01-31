@@ -1,0 +1,71 @@
+main:
+  - title: "News"
+    url: /news/
+  - title: "Calls"
+    sublinks: 'calls'
+  - title: "Tutorial"
+    url: /tutorials/
+  - title: "Workshop"
+    url: /workshops/
+  - title: "Organization"
+    sublinks: 'organization'
+  - title: "Misc"
+    sublinks: 'misc'
+  - title: "Contact"
+    url: /contact/
+
+calls:
+  - title: "Call For"
+    children:
+    - title: "Papers"
+      url: /calls/papers/
+    - title: "Tutorials"
+      url: /calls/tutorials/
+    - title: "Workshops"
+      url: /calls/workshops/
+    - title: "Nominations"
+      url: /calls/nominations/
+
+participants:
+  - title: "Participants"
+    children:
+    - title: "Registration"
+      url: /participants/registration/
+    - title: "Author"
+      url: /participants/author/
+
+conference:
+  - title: "Conference"
+    children:
+    - title: "Accepted Papers"
+      url: /conference/accepted-papers/
+    - title: "Invited Speakers"
+      url: /conference/invited-speakers/
+    - title: "Awards"
+      url: /conference/awards/
+
+organization:
+  - title: "organization"
+    children:
+    - title: "ACML 2022 Committees"
+      url: /committees/
+    - title: "Steering Committees"
+      url: http://acml-conf.org/Committee.ashx
+
+misc:
+  - title: "Misc"
+    children:
+    - title: "Past Conferences"
+      url: http://acml-conf.org/
+
+oamls:
+  - title: "School"
+    children:
+    - title: "Home"
+      url: /school/
+    - title: "Schedule"
+      url: /school/schedule/
+    - title: "Call for Applications"
+      url: /school/call-for-applications/
+    # - title: "Frequently Asked Questions"
+    #   url: /school/faq/
