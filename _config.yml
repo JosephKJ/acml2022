@@ -26,8 +26,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   The Asian Conference on Machine Learning (ACML) is an international conference in the area of machine learning. It aims at providing a leading international forum for researchers in Machine Learning and related fields to share their new ideas and achievements.
 baseurl: "/acml2022" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: acml-conf
-github_username:  acml-conf
 
 # Build settings
 # theme: minima
@@ -55,7 +53,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/acml-conf/acml2021"
+      url: "https://github.com/Jyotshna-koilada/acml2022"
 
 atom_feed:
   hide: true
@@ -68,7 +66,7 @@ after_footer_scripts:
   - /assets/js/tz-select.js  
   - /assets/js/custom.js
 
-repository: acml-conf/acml2022
+repository: Jyotshna-koilada/acml2022
 
 comments:
   provider: "utterances"
@@ -87,7 +85,7 @@ analytics:
 # EXTRAS
 ###################################################
 
-org_url: http://www.acml-conf.org/
+org_url: http://Jyotshna-koilada.github.io/
 favicon_path: '/assets/images/favicons/'
 
 
