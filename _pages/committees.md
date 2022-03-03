@@ -29,3 +29,9 @@ classes: wide
 ### Online & Publicity Chairs
 * J Dinesh Babu, IIIT-Bangalore
 * Raj Sharma, Goldman Sachs
+
+### Distinguished Contribution Award Committee
+* Ichiro Takeuchi, Nagoya Institute of Technology
+* Min-Ling Zhang, Southeast University
+* Lee Wee Sun, National University of Singapore
+
