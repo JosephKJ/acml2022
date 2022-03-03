@@ -3,6 +3,14 @@ main:
     url: /news/
   - title: "Calls"
     sublinks: 'calls'
+  - title: "Participants"
+    sublinks: 'participants'
+  - title: "Program"
+    url: /program/
+  - title: "Conference"
+    sublinks: 'conference'
+  - title: "School"
+    sublinks: 'oamls'
   - title: "Tutorial"
     url: /tutorials/
   - title: "Workshop"

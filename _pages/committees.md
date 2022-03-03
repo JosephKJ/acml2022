@@ -19,13 +19,19 @@ classes: wide
 * Yu-Feng Li, Nanjing University
 
 ### Tutorial Chairs
-* Shipra Agrawal, Columbia Univ
+* Shipra Agrawal, Columbia University
 
 ### Workshop Chairs
 * Cheng-soon Ong, CSIRO
-* Local Arrangement Chairs
+
+### Local Arrangement Chairs
 * Srijith P K, IIT-Hyderabad
 
 ### Online & Publicity Chairs
 * J Dinesh Babu, IIIT-Bangalore
 * Raj Sharma, Goldman Sachs
+
+## Distinguished Contribution Award Committee
+* Ichiro Takeuchi, Nagoya Institute of Technology
+* Min-Ling Zhang, Southeast University
+* Lee Wee Sun, National University of Singapore
