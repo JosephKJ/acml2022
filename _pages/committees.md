@@ -22,7 +22,7 @@ classes: wide
 * Shipra Agrawal, Columbia University
 
 ### Workshop Chairs
-* Cheng-soon Ong, CSIRO
+* Cheng Soon Ong, CSIRO
 
 ### Local Arrangement Chairs
 * Srijith P K, IIT-Hyderabad
