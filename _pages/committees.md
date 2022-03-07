@@ -23,6 +23,7 @@ classes: wide
 
 ### Workshop Chairs
 * Cheng Soon Ong, CSIRO
+* Aditya Menon, Google (New York)
 
 ### Local Arrangement Chairs
 * Srijith P K, IIT-Hyderabad
